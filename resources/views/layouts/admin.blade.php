@@ -41,7 +41,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('home') }}">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-volleyball-ball"></i>
+                    <i class="fas fa-tshirt"></i>
                 </div>
                 <div class="sidebar-brand-text ">    PWD {{ Auth::user()->role }}</div>
             </a>
